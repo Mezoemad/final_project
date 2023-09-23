@@ -1,0 +1,18 @@
+{
+  "Omar": [
+    "moataz",
+    "ahmed"
+  ],
+  "ahmed": [
+    "Omar",
+    "moataz"
+  ],
+  "moataz": [
+    "Omar",
+    "ahmed",
+    "jana"
+  ],
+  "jana": [
+    "moataz"
+  ]
+}

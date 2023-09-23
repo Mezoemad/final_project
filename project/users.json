@@ -1,0 +1,38 @@
+{
+  "Omar": {
+    "First name": "omar",
+    "last name": "some",
+    "phone": "010",
+    "gender": "Male",
+    "email": "Omar",
+    "password": "111",
+    "age": "20"
+  },
+  "moataz": {
+    "First name": "moataz",
+    "last name": "emad",
+    "phone": "515",
+    "gender": "Male",
+    "email": "moataz",
+    "password": "111",
+    "age": "20"
+  },
+  "ahmed": {
+    "First name": "ahmed",
+    "last name": "ramdan",
+    "phone": "111",
+    "gender": "Male",
+    "email": "ahmed",
+    "password": "111",
+    "age": "23"
+  },
+  "jana": {
+    "First name": "k",
+    "last name": "r",
+    "phone": "r",
+    "gender": "Female",
+    "email": "jana",
+    "password": "111",
+    "age": "2"
+  }
+}
